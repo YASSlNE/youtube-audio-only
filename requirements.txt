@@ -48,7 +48,7 @@ conda-build==2.1.5
 # conda-package-handling @ file:///tmp/build/80754af9/conda-package-handling_1618262147379/work
 # conda-repo-cli @ file:///tmp/build/80754af9/conda-repo-cli_1620168426516/work
 # conda-token @ file:///tmp/build/80754af9/conda-token_1620076980546/work
-conda-verify==3.4.2
+# conda-verify==3.4.2
 # contextlib2 @ file:///Users/ktietz/demo/mc3/conda-bld/contextlib2_1630668244042/work
 # cookiecutter @ file:///tmp/build/80754af9/cookiecutter_1617748928239/work
 # cryptography @ file:///tmp/build/80754af9/cryptography_1633520369886/work
