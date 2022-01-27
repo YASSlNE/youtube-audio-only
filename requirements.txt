@@ -20,4 +20,4 @@ whitenoise==5.3.0
 # pafy==0.5.5
 youtube_dl==2021.12.17
 pafy==0.5.5
--e git+git://github.com/mohamed-challal/pafy.git@develop#egg=pafy
+-e git+git://github.com/mohamed-challal/pafy.git@develop#egg=pafy==0.5.5
