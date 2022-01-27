@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-hfqli!(8-gvc4x(rkj(l02qq8fsvt)*efb5lt$-dx9&%jepz^h
 
 # SECURITY WARNING: don't run with debug turned on in production!
 # DEBUG = True
-DEBUG = os.environ.get('DEBUG')
+DEBUG = os.environ.get('DEBUG','False')
 
 ALLOWED_HOSTS = ['.heroku.com']
 
