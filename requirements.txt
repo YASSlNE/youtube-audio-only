@@ -240,7 +240,7 @@ Sphinx==4.2.0
 # statsmodels @ file:///tmp/build/80754af9/statsmodels_1614022848006/work
 # sympy @ file:///tmp/build/80754af9/sympy_1635237064765/work
 # tables @ file:///tmp/build/80754af9/pytables_1607975397488/work
-TBB==0.2
+# TBB==0.2
 # tblib @ file:///Users/ktietz/demo/mc3/conda-bld/tblib_1629402031467/work
 terminado==0.9.4
 # testpath @ file:///tmp/build/80754af9/testpath_1624638946665/work
