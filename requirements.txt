@@ -21,4 +21,4 @@ whitenoise==5.3.0
 # youtube_dl==2021.12.17
 youtube-dl==2021.6.6
 # pafy==0.5.5
--e git+git://github.com/Cupcakus/pafy.git@develop#egg=pafy
+-e git+git://github.com/Cupcakus/pafy.git@develop
