@@ -75,7 +75,7 @@ fonttools==4.25.0
 # future @ file:///tmp/build/80754af9/future_1607571303524/work
 # gevent @ file:///tmp/build/80754af9/gevent_1628273270105/work
 # glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
-gmpy2==2.0.8
+# gmpy2==2.0.8
 # greenlet @ file:///tmp/build/80754af9/greenlet_1628888132713/work
 # h5py @ file:///tmp/build/80754af9/h5py_1636040554610/work
 # HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
@@ -217,6 +217,7 @@ scikit-image==0.18.3
 # SecretStorage @ file:///tmp/build/80754af9/secretstorage_1614022780358/work
 # Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
 simplegeneric==0.8.1
+gunicorn==20.1.0
 # singledispatch @ file:///tmp/build/80754af9/singledispatch_1629321204894/work
 # sip==4.19.13
 # six @ file:///tmp/build/80754af9/six_1623709665295/work
