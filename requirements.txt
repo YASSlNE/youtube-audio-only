@@ -183,7 +183,7 @@ pycurl==7.44.1
 # PyJWT @ file:///tmp/build/80754af9/pyjwt_1619682484438/work
 # pylint @ file:///tmp/build/80754af9/pylint_1627536788603/work
 pyls-spyder==0.4.0
-pyodbc===4.0.0-unsupported
+# pyodbc===4.0.0-unsupported
 # pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1635333100036/work
 # pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
 # pyrsistent @ file:///tmp/build/80754af9/pyrsistent_1636110951836/work
