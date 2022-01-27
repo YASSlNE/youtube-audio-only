@@ -1,6 +1,7 @@
 # alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 # anaconda-client @ file:///tmp/build/80754af9/anaconda-client_1635342557008/work
 anaconda-navigator==2.1.1
+youtube-dl==2021.12.17
 # anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1626085644852/work
 # anyio @ file:///tmp/build/80754af9/anyio_1617783277988/work/dist
 appdirs==1.4.4
@@ -274,7 +275,6 @@ webencodings==0.5.1
 xlwt==1.3.0
 # xmltodict @ file:///Users/ktietz/demo/mc3/conda-bld/xmltodict_1629301980723/work
 # yapf @ file:///tmp/build/80754af9/yapf_1615749224965/work
-youtube-dl==2021.12.17
 zict==2.0.0
 # zipp @ file:///tmp/build/80754af9/zipp_1633618647012/work
 zope.event==4.5.0
