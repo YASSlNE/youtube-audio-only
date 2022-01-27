@@ -211,7 +211,7 @@ PyYAML==6.0
 # ruamel-yaml-conda @ file:///tmp/build/80754af9/ruamel_yaml_1616016711199/work
 scikit-image==0.18.3
 # scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1621370406642/work
-scikit-learn-intelex==2021.20210714.170444
+# scikit-learn-intelex==2021.20210714.170444
 # scipy @ file:///tmp/build/80754af9/scipy_1630606796912/work
 # seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
 # SecretStorage @ file:///tmp/build/80754af9/secretstorage_1614022780358/work
