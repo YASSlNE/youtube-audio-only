@@ -39,7 +39,7 @@ certifi==2021.10.8
 # charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
 click==8.0.3
 # cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1632508026186/work
-clyent==1.2.2
+clyent==1.2.1
 # colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 conda==4.11.0
 conda-build==3.21.5
