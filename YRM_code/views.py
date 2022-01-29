@@ -13,6 +13,8 @@ def index(request):
             k=pafy.new(url)
             aud=k.getbestaudio()
             streamurl=aud.url
+            getid=url.split('=')[1]
+            mp3=f'<iframe src="https://www.yt-download.org/api/button/mp3/{getid}" width="100%" height="100px" scrolling="no" style="border:none;"></iframe>'
         # print("mqlskdjfqsdmlk")
-            return render(request,'index.html',context={'form':c,'streamurl':streamurl,'title':k.title})
+            return render(request,'index.html',context={'form':c,'streamurl':streamurl,'title':k.title, 'mp3download':mp3})
     return render(request,'index.html',context={'form':c})
