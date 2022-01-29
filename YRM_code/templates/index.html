@@ -7,7 +7,7 @@
         <link href="{% static '/css/main.css' %}" rel="stylesheet">
 
     </head>
-    <body>
+    <body onload="return hide_div();">
         <audio class="audcls" controls preload="auto">
             <source src={{streamurl}} type="audio/mpeg">
         </audio>
@@ -24,7 +24,7 @@
           </div>
           <!-- <h1></h1> -->
         </form>
-        <div id="mp3" style="position:absolute;top:150px;left:500px;display:none;">{{mp3download}}</div>
+        <div id="mp3" style="position:absolute;top:150px;left:500px;display:block;">{{mp3download}}</div>
         <!-- <script>$('div#mp3').html('<h1>qsdmlfkdsjm</h1>')</script> -->
         <script src="{% static '/js/main.js' %}"></script>
 
