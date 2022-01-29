@@ -19,11 +19,12 @@
           <div style="top:500px;">
             {{form}}
           <input class="btn btn-primary sbtcls" type="submit" value="Submit">
+          <input class="btn btn-primary download_links" type="button" value="Get download links" onclick="return get_links()">
           </div>
           </div>
           <!-- <h1></h1> -->
         </form>
-        <div id="mp3" style="position:absolute;top:150px;left:500px;">{{mp3download}}</div>
+        <div id="mp3" style="position:absolute;top:150px;left:500px;display:none;">{{mp3download}}</div>
         <!-- <script>$('div#mp3').html('<h1>qsdmlfkdsjm</h1>')</script> -->
         <script src="{% static '/js/main.js' %}"></script>
 

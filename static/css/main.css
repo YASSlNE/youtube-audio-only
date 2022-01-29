@@ -5,7 +5,12 @@
 }
 .sbtcls{
     position:relative;
-    left:620px;
+    left:520px;
+    top:260px;
+}
+.download_links{
+    position:relative;
+    left:540px;
     top:260px;
 }
 .audcls{
